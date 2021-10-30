@@ -1,5 +1,5 @@
 # JUAV
-JUAV Like Boston Dynamics Robot Dog 
+JUAV Like Half Life Strider
 
 Not finished yet
 
